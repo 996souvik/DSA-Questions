@@ -15,7 +15,6 @@
 * In forked repository select the topic folder where you want to add the program.
 * Then select the programming language folder in which you want to add the program.
 * If you can't find the folder create the folder and  then add your program.
-* for example check this folder [Array](https://github.com/avinash201199/DSA-Questions/tree/main/Array)
 * Make your pull request with issue number by using # 
 * Wait for review.
 
@@ -23,8 +22,7 @@ After reviewing your code if there will be no changes required then your pull re
 
 You can also contribute to this repository by improving documention or any mistakes/errors. <br>
 
-Follow me on Github - https://github.com/avinash201199 <br>
-Contact me for any doubt -https://www.instagram.com/lets__code/ <br>
+
 
 THANK YOU FOR YOUR CONTRIBUTIONS. 
 
